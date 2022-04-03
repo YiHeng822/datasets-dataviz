@@ -1,6 +1,4 @@
 Year,State,Sex,Live_births
-2012,Malaysia,Male,272193
-2012,Malaysia,Female,253819
 2012,Johor,Male,31214
 2012,Johor,Female,29230
 2012,Kedah,Male,18937
@@ -27,14 +25,12 @@ Year,State,Sex,Live_births
 2012,Selangor,Female,51868
 2012,Terengganu,Male,13230
 2012,Terengganu,Female,12468
-2012,W.P. Kuala Lumpur,Male,14012
-2012,W.P. Kuala Lumpur,Female,12970
-2012,W.P. Labuan,Male,934
-2012,W.P. Labuan,Female,839
-2012,W.P. Putrajaya,Male,1600
-2012,W.P. Putrajaya,Female,1550
-2013,Malaysia,Male,260725
-2013,Malaysia,Female,243189
+2012,Wilayah Persekutuan Kuala Lumpur,Male,14012
+2012,Wilayah Persekutuan Kuala Lumpur,Female,12970
+2012,Wilayah Persekutuan Labuan,Male,934
+2012,Wilayah Persekutuan Labuan,Female,839
+2012,Wilayah Persekutuan Putrajaya,Male,1600
+2012,Wilayah Persekutuan Putrajaya,Female,1550
 2013,Johor,Male,29672
 2013,Johor,Female,27730
 2013,Kedah,Male,18049
@@ -61,14 +57,12 @@ Year,State,Sex,Live_births
 2013,Selangor,Female,49891
 2013,Terengganu,Male,13026
 2013,Terengganu,Female,12439
-2013,W.P. Kuala Lumpur,Male,13044
-2013,W.P. Kuala Lumpur,Female,12289
-2013,W.P. Labuan,Male,944
-2013,W.P. Labuan,Female,799
-2013,W.P. Putrajaya,Male,1518
-2013,W.P. Putrajaya,Female,1454
-2015,Malaysia,Male,269255
-2015,Malaysia,Female,251881
+2013,Wilayah Persekutuan Kuala Lumpur,Male,13044
+2013,Wilayah Persekutuan Kuala Lumpur,Female,12289
+2013,Wilayah Persekutuan Labuan,Male,944
+2013,Wilayah Persekutuan Labuan,Female,799
+2013,Wilayah Persekutuan Putrajaya,Male,1518
+2013,Wilayah Persekutuan Putrajaya,Female,1454
 2015,Johor,Male,31307
 2015,Johor,Female,29236
 2015,Kedah,Male,18832
@@ -95,14 +89,12 @@ Year,State,Sex,Live_births
 2015,Selangor,Female,52411
 2015,Terengganu,Male,14403
 2015,Terengganu,Female,13226
-2015,W.P. Kuala Lumpur,Male,13411
-2015,W.P. Kuala Lumpur,Female,12378
-2015,W.P. Labuan,Male,1023
-2015,W.P. Labuan,Female,930
-2015,W.P. Putrajaya,Male,1515
-2015,W.P. Putrajaya,Female,1354
-2014,Malaysia,Male,273139
-2014,Malaysia,Female,255473
+2015,Wilayah Persekutuan Kuala Lumpur,Male,13411
+2015,Wilayah Persekutuan Kuala Lumpur,Female,12378
+2015,Wilayah Persekutuan Labuan,Male,1023
+2015,Wilayah Persekutuan Labuan,Female,930
+2015,Wilayah Persekutuan Putrajaya,Male,1515
+2015,Wilayah Persekutuan Putrajaya,Female,1354
 2014,Johor,Male,31420
 2014,Johor,Female,29023
 2014,Kedah,Male,18936
@@ -129,14 +121,12 @@ Year,State,Sex,Live_births
 2014,Selangor,Female,52909
 2014,Terengganu,Male,14056
 2014,Terengganu,Female,12957
-2014,W.P. Kuala Lumpur,Male,13887
-2014,W.P. Kuala Lumpur,Female,13213
-2014,W.P. Labuan,Male,959
-2014,W.P. Labuan,Female,912
-2014,W.P. Putrajaya,Male,1574
-2014,W.P. Putrajaya,Female,1490
-2016,Malaysia,Male,262755
-2016,Malaysia,Female,245448
+2014,Wilayah Persekutuan Kuala Lumpur,Male,13887
+2014,Wilayah Persekutuan Kuala Lumpur,Female,13213
+2014,Wilayah Persekutuan Labuan,Male,959
+2014,Wilayah Persekutuan Labuan,Female,912
+2014,Wilayah Persekutuan Putrajaya,Male,1574
+2014,Wilayah Persekutuan Putrajaya,Female,1490
 2016,Johor,Male,30754
 2016,Johor,Female,28807
 2016,Kedah,Male,18457
@@ -163,14 +153,12 @@ Year,State,Sex,Live_births
 2016,Selangor,Female,50634
 2016,Terengganu,Male,14211
 2016,Terengganu,Female,13310
-2016,W.P. Kuala Lumpur,Male,13276
-2016,W.P. Kuala Lumpur,Female,12463
-2016,W.P. Labuan,Male,881
-2016,W.P. Labuan,Female,871
-2016,W.P. Putrajaya,Male,1342
-2016,W.P. Putrajaya,Female,1227
-2009,Malaysia,Male,256060
-2009,Malaysia,Female,240253
+2016,Wilayah Persekutuan Kuala Lumpur,Male,13276
+2016,Wilayah Persekutuan Kuala Lumpur,Female,12463
+2016,Wilayah Persekutuan Labuan,Male,881
+2016,Wilayah Persekutuan Labuan,Female,871
+2016,Wilayah Persekutuan Putrajaya,Male,1342
+2016,Wilayah Persekutuan Putrajaya,Female,1227
 2009,Johor,Male,29631
 2009,Johor,Female,27386
 2009,Kedah,Male,18387
@@ -197,12 +185,10 @@ Year,State,Sex,Live_births
 2009,Selangor,Female,49164
 2009,Terengganu,Male,12152
 2009,Terengganu,Female,11643
-2009,W.P. Kuala Lumpur,Male,13252
-2009,W.P. Kuala Lumpur,Female,12612
-2009,W.P. Labuan,Male,845
-2009,W.P. Labuan,Female,804
-2010,Malaysia,Male,253718
-2010,Malaysia,Female,237521
+2009,Wilayah Persekutuan Kuala Lumpur,Male,13252
+2009,Wilayah Persekutuan Kuala Lumpur,Female,12612
+2009,Wilayah Persekutuan Labuan,Male,845
+2009,Wilayah Persekutuan Labuan,Female,804
 2010,Johor,Male,28989
 2010,Johor,Female,27075
 2010,Kedah,Male,18203
@@ -229,14 +215,12 @@ Year,State,Sex,Live_births
 2010,Selangor,Female,47900
 2010,Terengganu,Male,12546
 2010,Terengganu,Female,11716
-2010,W.P. Kuala Lumpur,Male,12697
-2010,W.P. Kuala Lumpur,Female,11774
-2010,W.P. Labuan,Male,852
-2010,W.P. Labuan,Female,779
-2010,W.P. Putrajaya,Male,1286
-2010,W.P. Putrajaya,Female,1144
-2011,Malaysia,Male,264427
-2011,Malaysia,Female,247167
+2010,Wilayah Persekutuan Kuala Lumpur,Male,12697
+2010,Wilayah Persekutuan Kuala Lumpur,Female,11774
+2010,Wilayah Persekutuan Labuan,Male,852
+2010,Wilayah Persekutuan Labuan,Female,779
+2010,Wilayah Persekutuan Putrajaya,Male,1286
+2010,Wilayah Persekutuan Putrajaya,Female,1144
 2011,Johor,Male,29962
 2011,Johor,Female,28205
 2011,Kedah,Male,18480
@@ -263,48 +247,44 @@ Year,State,Sex,Live_births
 2011,Selangor,Female,50146
 2011,Terengganu,Male,12855
 2011,Terengganu,Female,11921
-2011,W.P. Kuala Lumpur,Male,13147
-2011,W.P. Kuala Lumpur,Female,12378
-2011,W.P. Labuan,Male,911
-2011,W.P. Labuan,Female,823
-2011,W.P. Putrajaya,Male,1508
-2011,W.P. Putrajaya,Female,1448
-2017,Malaysia ,Male,262575
-2017,Malaysia ,Female,246110
-2017,Johor ,Male,31648
-2017,Johor ,Female,29437
-2017,Kedah ,Male,18991
-2017,Kedah ,Female,17702
+2011,Wilayah Persekutuan Kuala Lumpur,Male,13147
+2011,Wilayah Persekutuan Kuala Lumpur,Female,12378
+2011,Wilayah Persekutuan Labuan,Male,911
+2011,Wilayah Persekutuan Labuan,Female,823
+2011,Wilayah Persekutuan Putrajaya,Male,1508
+2011,Wilayah Persekutuan Putrajaya,Female,1448
+2017,Johor,Male,31648
+2017,Johor,Female,29437
+2017,Kedah,Male,18991
+2017,Kedah,Female,17702
 2017,Kelantan,Male,20084
 2017,Kelantan,Female,19038
 2017,Melaka,Male,7454
 2017,Melaka,Female,6935
 2017,Negeri Sembilan,Male,9390
 2017,Negeri Sembilan,Female,8688
-2017,Pahang ,Male,14111
-2017,Pahang ,Female,13444
+2017,Pahang,Male,14111
+2017,Pahang,Female,13444
 2017,Perak,Male,17953
 2017,Perak,Female,16885
 2017,Perlis,Male,2347
 2017,Perlis,Female,2100
 2017,Pulau Pinang,Male,11048
 2017,Pulau Pinang,Female,10416
-2017,Sabah ,Male,27120
-2017,Sabah ,Female,25408
+2017,Sabah,Male,27120
+2017,Sabah,Female,25408
 2017,Sarawak,Male,19543
 2017,Sarawak,Female,18111
 2017,Selangor,Male,53823
 2017,Selangor,Female,50164
-2017,Terengganu ,Male,14177
-2017,Terengganu ,Female,13734
-2017,W.P. Kuala Lumpur ,Male,12722
-2017,W.P. Kuala Lumpur ,Female,12010
-2017,W.P. Labuan ,Male,866
-2017,W.P. Labuan ,Female,819
-2017,W.P. Putrajaya,Male,1298
-2017,W.P. Putrajaya,Female,1219
-2018,Malaysia ,Male,259582
-2018,Malaysia ,Female,242363
+2017,Terengganu,Male,14177
+2017,Terengganu,Female,13734
+2017,Wilayah Persekutuan Kuala Lumpur,Male,12722
+2017,Wilayah Persekutuan Kuala Lumpur,Female,12010
+2017,Wilayah Persekutuan Labuan,Male,866
+2017,Wilayah Persekutuan Labuan,Female,819
+2017,Wilayah Persekutuan Putrajaya,Male,1298
+2017,Wilayah Persekutuan Putrajaya,Female,1219
 2018,Johor,Male,31656
 2018,Johor,Female,29428
 2018,Kedah,Male,18462
@@ -331,9 +311,9 @@ Year,State,Sex,Live_births
 2018,Selangor,Female,49341
 2018,Terengganu,Male,14578
 2018,Terengganu,Female,13664
-2018,W.P. Kuala Lumpur,Male,12475
-2018,W.P. Kuala Lumpur,Female,11760
-2018,W.P. Labuan,Male,913
-2018,W.P. Labuan,Female,778
-2018,W.P. Putrajaya,Male,1251
-2018,W.P. Putrajaya,Female,1149
+2018,Wilayah Persekutuan Kuala Lumpur,Male,12475
+2018,Wilayah Persekutuan Kuala Lumpur,Female,11760
+2018,Wilayah Persekutuan Labuan,Male,913
+2018,Wilayah Persekutuan Labuan,Female,778
+2018,Wilayah Persekutuan Putrajaya,Male,1251
+2018,Wilayah Persekutuan Putrajaya,Female,1149
