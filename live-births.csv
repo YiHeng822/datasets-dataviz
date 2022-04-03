@@ -1,6 +1,4 @@
 ﻿Year,State,Sex,Number of Live births
-2012,Malaysia,Male,272193
-2012,Malaysia,Female,253819
 2012,Johor,Male,31214
 2012,Johor,Female,29230
 2012,Kedah,Male,18937
@@ -33,8 +31,6 @@
 2012,W.P. Labuan,Female,839
 2012,W.P. Putrajaya,Male,1600
 2012,W.P. Putrajaya,Female,1550
-2013,Malaysia,Male,260725
-2013,Malaysia,Female,243189
 2013,Johor,Male,29672
 2013,Johor,Female,27730
 2013,Kedah,Male,18049
@@ -67,8 +63,6 @@
 2013,W.P. Labuan,Female,799
 2013,W.P. Putrajaya,Male,1518
 2013,W.P. Putrajaya,Female,1454
-2015,Malaysia,Male,269255
-2015,Malaysia,Female,251881
 2015,Johor,Male,31307
 2015,Johor,Female,29236
 2015,Kedah,Male,18832
@@ -101,8 +95,6 @@
 2015,W.P. Labuan,Female,930
 2015,W.P. Putrajaya,Male,1515
 2015,W.P. Putrajaya,Female,1354
-2014,Malaysia,Male,273139
-2014,Malaysia,Female,255473
 2014,Johor,Male,31420
 2014,Johor,Female,29023
 2014,Kedah,Male,18936
@@ -135,8 +127,6 @@
 2014,W.P. Labuan,Female,912
 2014,W.P. Putrajaya,Male,1574
 2014,W.P. Putrajaya,Female,1490
-2016,Malaysia,Male,262755
-2016,Malaysia,Female,245448
 2016,Johor,Male,30754
 2016,Johor,Female,28807
 2016,Kedah,Male,18457
@@ -169,8 +159,6 @@
 2016,W.P. Labuan,Female,871
 2016,W.P. Putrajaya,Male,1342
 2016,W.P. Putrajaya,Female,1227
-2009,Malaysia,Male,256060
-2009,Malaysia,Female,240253
 2009,Johor,Male,29631
 2009,Johor,Female,27386
 2009,Kedah,Male,18387
@@ -201,8 +189,6 @@
 2009,W.P. Kuala Lumpur,Female,12612
 2009,W.P. Labuan,Male,845
 2009,W.P. Labuan,Female,804
-2010,Malaysia,Male,253718
-2010,Malaysia,Female,237521
 2010,Johor,Male,28989
 2010,Johor,Female,27075
 2010,Kedah,Male,18203
@@ -235,8 +221,6 @@
 2010,W.P. Labuan,Female,779
 2010,W.P. Putrajaya,Male,1286
 2010,W.P. Putrajaya,Female,1144
-2011,Malaysia,Male,264427
-2011,Malaysia,Female,247167
 2011,Johor,Male,29962
 2011,Johor,Female,28205
 2011,Kedah,Male,18480
@@ -269,42 +253,38 @@
 2011,W.P. Labuan,Female,823
 2011,W.P. Putrajaya,Male,1508
 2011,W.P. Putrajaya,Female,1448
-2017,Malaysia ,Male,262575
-2017,Malaysia ,Female,246110
-2017,Johor ,Male,31648
-2017,Johor ,Female,29437
-2017,Kedah ,Male,18991
-2017,Kedah ,Female,17702
+2017,Johor,Male,31648
+2017,Johor,Female,29437
+2017,Kedah,Male,18991
+2017,Kedah,Female,17702
 2017,Kelantan,Male,20084
 2017,Kelantan,Female,19038
 2017,Melaka,Male,7454
 2017,Melaka,Female,6935
 2017,Negeri Sembilan,Male,9390
 2017,Negeri Sembilan,Female,8688
-2017,Pahang ,Male,14111
-2017,Pahang ,Female,13444
+2017,Pahang,Male,14111
+2017,Pahang,Female,13444
 2017,Perak,Male,17953
 2017,Perak,Female,16885
 2017,Perlis,Male,2347
 2017,Perlis,Female,2100
 2017,Pulau Pinang,Male,11048
 2017,Pulau Pinang,Female,10416
-2017,Sabah ,Male,27120
-2017,Sabah ,Female,25408
+2017,Sabah,Male,27120
+2017,Sabah,Female,25408
 2017,Sarawak,Male,19543
 2017,Sarawak,Female,18111
 2017,Selangor,Male,53823
 2017,Selangor,Female,50164
-2017,Terengganu ,Male,14177
-2017,Terengganu ,Female,13734
-2017,W.P. Kuala Lumpur ,Male,12722
-2017,W.P. Kuala Lumpur ,Female,12010
-2017,W.P. Labuan ,Male,866
-2017,W.P. Labuan ,Female,819
+2017,Terengganu,Male,14177
+2017,Terengganu,Female,13734
+2017,W.P. Kuala Lumpur,Male,12722
+2017,W.P. Kuala Lumpur,Female,12010
+2017,W.P. Labuan,Male,866
+2017,W.P. Labuan,Female,819
 2017,W.P. Putrajaya,Male,1298
 2017,W.P. Putrajaya,Female,1219
-2018,Malaysia ,Male,259582
-2018,Malaysia ,Female,242363
 2018,Johor,Male,31656
 2018,Johor,Female,29428
 2018,Kedah,Male,18462
