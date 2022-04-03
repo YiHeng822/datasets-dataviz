@@ -1,319 +1,478 @@
 Year,State,Sex,Live_births
 2012,Johor,Male,31214
 2012,Johor,Female,29230
+2012,Johor,Total,60444
 2012,Kedah,Male,18937
 2012,Kedah,Female,17453
+2012,Kedah,Total,36390
 2012,Kelantan,Male,19328
 2012,Kelantan,Female,17697
+2012,Kelantan,Total,37025
 2012,Melaka,Male,7233
 2012,Melaka,Female,7045
+2012,Melaka,Total,14278
 2012,Negeri Sembilan,Male,9219
 2012,Negeri Sembilan,Female,8684
+2012,Negeri Sembilan,Total,17903
 2012,Pahang,Male,13955
 2012,Pahang,Female,13456
+2012,Pahang,Total,27411
 2012,Perak,Male,19402
 2012,Perak,Female,18310
+2012,Perak,Total,37712
 2012,Perlis,Male,2130
 2012,Perlis,Female,2013
+2012,Perlis,Total,4143
 2012,Pulau Pinang,Male,12138
 2012,Pulau Pinang,Female,11656
+2012,Pulau Pinang,Total,23794
 2012,Sabah,Male,0
 2012,Sabah,Female,0
+2012,Sabah,Total,0
 2012,Sarawak,Male,22517
 2012,Sarawak,Female,20661
+2012,Sarawak,Total,43178
 2012,Selangor,Male,56078
 2012,Selangor,Female,51868
+2012,Selangor,Total,107946
 2012,Terengganu,Male,13230
 2012,Terengganu,Female,12468
+2012,Terengganu,Total,25698
 2012,Wilayah Persekutuan Kuala Lumpur,Male,14012
 2012,Wilayah Persekutuan Kuala Lumpur,Female,12970
+2012,Wilayah Persekutuan Kuala Lumpur,Total,26982
 2012,Wilayah Persekutuan Labuan,Male,934
 2012,Wilayah Persekutuan Labuan,Female,839
+2012,Wilayah Persekutuan Labuan,Total,1773
 2012,Wilayah Persekutuan Putrajaya,Male,1600
 2012,Wilayah Persekutuan Putrajaya,Female,1550
+2012,Wilayah Persekutuan Putrajaya,Total,3150
 2013,Johor,Male,29672
 2013,Johor,Female,27730
+2013,Johor,Total,57402
 2013,Kedah,Male,18049
 2013,Kedah,Female,16983
+2013,Kedah,Total,35032
 2013,Kelantan,Male,18853
 2013,Kelantan,Female,17560
+2013,Kelantan,Total,36413
 2013,Melaka,Male,7102
 2013,Melaka,Female,6590
+2013,Melaka,Total,13692
 2013,Negeri Sembilan,Male,9126
 2013,Negeri Sembilan,Female,8383
+2013,Negeri Sembilan,Total,17509
 2013,Pahang,Male,13996
 2013,Pahang,Female,12972
+2013,Pahang,Total,26968
 2013,Perak,Male,18294
 2013,Perak,Female,17133
+2013,Perak,Total,35427
 2013,Perlis,Male,2108
 2013,Perlis,Female,1942
+2013,Perlis,Total,4050
 2013,Pulau Pinang,Male,11020
 2013,Pulau Pinang,Female,10479
+2013,Pulau Pinang,Total,21499
 2013,Sabah,Male,0
 2013,Sabah,Female,0
+2013,Sabah,Total,0
 2013,Sarawak,Male,21027
 2013,Sarawak,Female,19386
+2013,Sarawak,Total,40413
 2013,Selangor,Male,53282
 2013,Selangor,Female,49891
+2013,Selangor,Total,103173
 2013,Terengganu,Male,13026
 2013,Terengganu,Female,12439
+2013,Terengganu,Total,25465
 2013,Wilayah Persekutuan Kuala Lumpur,Male,13044
 2013,Wilayah Persekutuan Kuala Lumpur,Female,12289
+2013,Wilayah Persekutuan Kuala Lumpur,Total,25333
 2013,Wilayah Persekutuan Labuan,Male,944
 2013,Wilayah Persekutuan Labuan,Female,799
+2013,Wilayah Persekutuan Labuan,Total,1743
 2013,Wilayah Persekutuan Putrajaya,Male,1518
 2013,Wilayah Persekutuan Putrajaya,Female,1454
+2013,Wilayah Persekutuan Putrajaya,Total,2972
 2015,Johor,Male,31307
 2015,Johor,Female,29236
+2015,Johor,Total,60543
 2015,Kedah,Male,18832
 2015,Kedah,Female,17952
+2015,Kedah,Total,36784
 2015,Kelantan,Male,19984
 2015,Kelantan,Female,19124
+2015,Kelantan,Total,39108
 2015,Melaka,Male,7460
 2015,Melaka,Female,7094
+2015,Melaka,Total,14554
 2015,Negeri Sembilan,Male,9605
 2015,Negeri Sembilan,Female,8818
+2015,Negeri Sembilan,Total,18423
 2015,Pahang,Male,14370
 2015,Pahang,Female,13689
+2015,Pahang,Toal,28059
 2015,Perak,Male,18855
 2015,Perak,Female,17429
+2015,Perak,Total,36284
 2015,Perlis,Male,2239
 2015,Perlis,Female,2076
+2015,Perlis,Total,4315
 2015,Pulau Pinang,Male,11529
 2015,Pulau Pinang,Female,10713
+2015,Pulau Pinang,Total,22242
 2015,Sabah,Male,28451
 2015,Sabah,Female,26248
+2015,Sabah,Total,54699
 2015,Sarawak,Male,20551
 2015,Sarawak,Female,19203
+2015,Sarawak,Total,39754
 2015,Selangor,Male,55720
 2015,Selangor,Female,52411
+2015,Selangor,Total,108131
 2015,Terengganu,Male,14403
 2015,Terengganu,Female,13226
+2015,Terengganu,Total,27629
 2015,Wilayah Persekutuan Kuala Lumpur,Male,13411
 2015,Wilayah Persekutuan Kuala Lumpur,Female,12378
+2015,Wilayah Persekutuan Kuala Lumpur,Total,25789
 2015,Wilayah Persekutuan Labuan,Male,1023
 2015,Wilayah Persekutuan Labuan,Female,930
+2015,Wilayah Persekutuan Labuan,Total,1953
 2015,Wilayah Persekutuan Putrajaya,Male,1515
 2015,Wilayah Persekutuan Putrajaya,Female,1354
+2015,Wilayah Persekutuan Putrajaya,Total,2869
 2014,Johor,Male,31420
 2014,Johor,Female,29023
+2014,Johor,Total,60443
 2014,Kedah,Male,18936
 2014,Kedah,Female,17569
+2014,Kedah,Total,36505
 2014,Kelantan,Male,20227
 2014,Kelantan,Female,19052
+2014,Kelantan,Total,39279
 2014,Melaka,Male,7592
 2014,Melaka,Female,6976
+2014,Melaka,Total,14568
 2014,Negeri Sembilan,Male,9665
 2014,Negeri Sembilan,Female,9011
+2014,Negeri Sembilan,Total,18676
 2014,Pahang,Male,14887
 2014,Pahang,Female,13856
+2014,Pahang,Total,28743
 2014,Perak,Male,18833
 2014,Perak,Female,17753
+2014,Perak,Total,36586
 2014,Perlis,Male,2318
 2014,Perlis,Female,2191
+2014,Perlis,Total,4509
 2014,Pulau Pinang,Male,11799
 2014,Pulau Pinang,Female,11078
+2014,Pulau Pinang,Total,22877
 2014,Sabah,Male,29720
 2014,Sabah,Female,27677
+2014,Sabah,Total,57397
 2014,Sarawak,Male,21243
 2014,Sarawak,Female,19806
+2014,Sarawak,Total,41049
 2014,Selangor,Male,56023
 2014,Selangor,Female,52909
+2014,Selangor,Total,108932
 2014,Terengganu,Male,14056
 2014,Terengganu,Female,12957
+2014,Terengganu,Total,27013
 2014,Wilayah Persekutuan Kuala Lumpur,Male,13887
 2014,Wilayah Persekutuan Kuala Lumpur,Female,13213
+2014,Wilayah Persekutuan Kuala Lumpur,Total,27100
 2014,Wilayah Persekutuan Labuan,Male,959
 2014,Wilayah Persekutuan Labuan,Female,912
+2014,Wilayah Persekutuan Labuan,Total,1871
 2014,Wilayah Persekutuan Putrajaya,Male,1574
 2014,Wilayah Persekutuan Putrajaya,Female,1490
+2014,Wilayah Persekutuan Putrajaya,Total,3064
 2016,Johor,Male,30754
 2016,Johor,Female,28807
+2016,Johor,Total,59561
 2016,Kedah,Male,18457
 2016,Kedah,Female,17510
+2016,Kedah,Total,35967
 2016,Kelantan,Male,19821
 2016,Kelantan,Female,18634
+2016,Kelantan,Total,38455
 2016,Melaka,Male,7511
 2016,Melaka,Female,6891
+2016,Melaka,Total,14402
 2016,Negeri Sembilan,Male,9345
 2016,Negeri Sembilan,Female,8691
+2016,Negeri Sembilan,Total,18036
 2016,Pahang,Male,14379
 2016,Pahang,Female,13247
+2016,Pahang,Total,27626
 2016,Perak,Male,18559
 2016,Perak,Female,17126
+2016,Perak,Total,35685
 2016,Perlis,Male,2297
 2016,Perlis,Female,2095
+2016,Perlis,Total,4392
 2016,Pulau Pinang,Male,11176
 2016,Pulau Pinang,Female,10605
+2016,Pulau Pinang,Total,21781
 2016,Sabah,Male,27067
 2016,Sabah,Female,25004
+2016,Sabah,Total,52071
 2016,Sarawak,Male,19652
 2016,Sarawak,Female,18333
+2016,Sarawak,Total,37985
 2016,Selangor,Male,54027
 2016,Selangor,Female,50634
+2016,Selangor,Total,104661
 2016,Terengganu,Male,14211
 2016,Terengganu,Female,13310
+2016,Terengganu,Total,27521
 2016,Wilayah Persekutuan Kuala Lumpur,Male,13276
 2016,Wilayah Persekutuan Kuala Lumpur,Female,12463
+2016,Wilayah Persekutuan Kuala Lumpur,Total,25739
 2016,Wilayah Persekutuan Labuan,Male,881
 2016,Wilayah Persekutuan Labuan,Female,871
+2016,Wilayah Persekutuan Labuan,Total,1752
 2016,Wilayah Persekutuan Putrajaya,Male,1342
 2016,Wilayah Persekutuan Putrajaya,Female,1227
+2016,Wilayah Persekutuan Putrajaya,Total,2569
 2009,Johor,Male,29631
 2009,Johor,Female,27386
+2009,Johor,Total,57017
 2009,Kedah,Male,18387
 2009,Kedah,Female,17376
+2009,Kedah,Total,35763
 2009,Kelantan,Male,18277
 2009,Kelantan,Female,17297
+2009,Kelantan,Total,35574
 2009,Melaka,Male,6829
 2009,Melaka,Female,6464
+2009,Melaka,Total,13293
 2009,Negeri Sembilan,Male,8844
 2009,Negeri Sembilan,Female,8315
+2009,Negeri Sembilan,Total,17159
 2009,Pahang,Male,13411
 2009,Pahang,Female,12499
+2009,Pahang,Total,25910
 2009,Perak,Male,18836
 2009,Perak,Female,17819
+2009,Perak,Total,36655
 2009,Perlis,Male,2197
 2009,Perlis,Female,2015
+2009,Perlis,Total,4212
 2009,Pulau Pinang,Male,11621
 2009,Pulau Pinang,Female,10937
+2009,Pulau Pinang,Total,22558
 2009,Sabah,Male,26925
 2009,Sabah,Female,25128
+2009,Sabah,Total,52053
 2009,Sarawak,Male,22407
 2009,Sarawak,Female,20794
+2009,Sarawak,Total,43201
 2009,Selangor,Male,52446
 2009,Selangor,Female,49164
+2009,Selangor,Total,101610
 2009,Terengganu,Male,12152
 2009,Terengganu,Female,11643
+2009,Terengganu,Total,23795
 2009,Wilayah Persekutuan Kuala Lumpur,Male,13252
 2009,Wilayah Persekutuan Kuala Lumpur,Female,12612
+2009,Wilayah Persekutuan Kuala Lumpur,Total,25864
 2009,Wilayah Persekutuan Labuan,Male,845
 2009,Wilayah Persekutuan Labuan,Female,804
+2009,Wilayah Persekutuan Labuan,Total,1649
 2010,Johor,Male,28989
 2010,Johor,Female,27075
+2010,Johor,Total,56064
 2010,Kedah,Male,18203
 2010,Kedah,Female,16925
+2010,Kedah,Total,35128
 2010,Kelantan,Male,18586
 2010,Kelantan,Female,17423
+2010,Kelantan,Total,36009
 2010,Melaka,Male,6799
 2010,Melaka,Female,6211
+2010,Melaka,Total,13010
 2010,Negeri Sembilan,Male,8654
 2010,Negeri Sembilan,Female,8285
+2010,Negeri Sembilan,Total,16939
 2010,Pahang,Male,13426
 2010,Pahang,Female,12520
+2010,Pahang,Total,25946
 2010,Perak,Male,18548
 2010,Perak,Female,17478
+2010,Perak,Total,36026
 2010,Perlis,Male,2126
 2010,Perlis,Female,1988
+2010,Perlis,Total,4114
 2010,Pulau Pinang,Male,10964
 2010,Pulau Pinang,Female,10208
+2010,Pulau Pinang,Total,21172
 2010,Sabah,Male,28078
 2010,Sabah,Female,26056
+2010,Sabah,Total,54134
 2010,Sarawak,Male,21435
 2010,Sarawak,Female,20039
+2010,Sarawak,Total,41474
 2010,Selangor,Male,50529
 2010,Selangor,Female,47900
+2010,Selangor,Total,98429
 2010,Terengganu,Male,12546
 2010,Terengganu,Female,11716
+2010,Terengganu,Total,24262
 2010,Wilayah Persekutuan Kuala Lumpur,Male,12697
 2010,Wilayah Persekutuan Kuala Lumpur,Female,11774
+2010,Wilayah Persekutuan Kuala Lumpur,Total,24471
 2010,Wilayah Persekutuan Labuan,Male,852
 2010,Wilayah Persekutuan Labuan,Female,779
+2010,Wilayah Persekutuan Labuan,Total,1631
 2010,Wilayah Persekutuan Putrajaya,Male,1286
 2010,Wilayah Persekutuan Putrajaya,Female,1144
+2010,Wilayah Persekutuan Putrajaya,Total,2430
 2011,Johor,Male,29962
 2011,Johor,Female,28205
+2011,Johor,Total,58167
 2011,Kedah,Male,18480
 2011,Kedah,Female,17457
+2011,Kedah,Total,35937
 2011,Kelantan,Male,19412
 2011,Kelantan,Female,18267
+2011,Kelantan,Total,37679
 2011,Melaka,Male,7290
 2011,Melaka,Female,6686
+2011,Melaka,Total,13976
 2011,Negeri Sembilan,Male,9202
 2011,Negeri Sembilan,Female,8468
+2011,Negeri Sembilan,Total,17670
 2011,Pahang,Male,14045
 2011,Pahang,Female,13034
+2011,Pahang,Total,27079
 2011,Perak,Male,19459
 2011,Perak,Female,18063
+2011,Perak,Total,37522
 2011,Perlis,Male,2192
 2011,Perlis,Female,1969
+2011,Perlis,Total,4161
 2011,Pulau Pinang,Male,11633
 2011,Pulau Pinang,Female,10720
+2011,Pulau Pinang,Total,22353
 2011,Sabah,Male,28473
 2011,Sabah,Female,26517
+2011,Sabah,Total,54990
 2011,Sarawak,Male,22318
 2011,Sarawak,Female,21065
+2011,Sarawak,Total,43383
 2011,Selangor,Male,53540
 2011,Selangor,Female,50146
+2011,Selangor,Total,103686
 2011,Terengganu,Male,12855
 2011,Terengganu,Female,11921
+2011,Terengganu,Total,24776
 2011,Wilayah Persekutuan Kuala Lumpur,Male,13147
 2011,Wilayah Persekutuan Kuala Lumpur,Female,12378
+2011,Wilayah Persekutuan Kuala Lumpur,Total,25525
 2011,Wilayah Persekutuan Labuan,Male,911
 2011,Wilayah Persekutuan Labuan,Female,823
+2011,Wilayah Persekutuan Labuan,Total,1734
 2011,Wilayah Persekutuan Putrajaya,Male,1508
 2011,Wilayah Persekutuan Putrajaya,Female,1448
+2011,Wilayah Persekutuan Putrajaya,Total,2956
 2017,Johor,Male,31648
 2017,Johor,Female,29437
+2017,Johor,Total,61085
 2017,Kedah,Male,18991
 2017,Kedah,Female,17702
+2017,Kedah,Total,36693
 2017,Kelantan,Male,20084
 2017,Kelantan,Female,19038
+2017,Kelantan,Total,39122
 2017,Melaka,Male,7454
 2017,Melaka,Female,6935
+2017,Melaka,Total,14389
 2017,Negeri Sembilan,Male,9390
 2017,Negeri Sembilan,Female,8688
+2017,Negeri Sembilan,Total,18078
 2017,Pahang,Male,14111
 2017,Pahang,Female,13444
+2017,Pahang,Total,27555
 2017,Perak,Male,17953
 2017,Perak,Female,16885
+2017,Perak,Total,34838
 2017,Perlis,Male,2347
 2017,Perlis,Female,2100
+2017,Perlis,Total,4447
 2017,Pulau Pinang,Male,11048
 2017,Pulau Pinang,Female,10416
+2017,Pulau Pinang,Total,21464
 2017,Sabah,Male,27120
 2017,Sabah,Female,25408
+2017,Sabah,Total,52528
 2017,Sarawak,Male,19543
 2017,Sarawak,Female,18111
+2017,Sarawak,Total,37654
 2017,Selangor,Male,53823
 2017,Selangor,Female,50164
+2017,Selangor,Total,103987
 2017,Terengganu,Male,14177
 2017,Terengganu,Female,13734
+2017,Terengganu,Total,27911
 2017,Wilayah Persekutuan Kuala Lumpur,Male,12722
 2017,Wilayah Persekutuan Kuala Lumpur,Female,12010
+2017,Wilayah Persekutuan Kuala Lumpur,Total,24732
 2017,Wilayah Persekutuan Labuan,Male,866
 2017,Wilayah Persekutuan Labuan,Female,819
+2017,Wilayah Persekutuan Labuan,Total,1685
 2017,Wilayah Persekutuan Putrajaya,Male,1298
 2017,Wilayah Persekutuan Putrajaya,Female,1219
+2017,Wilayah Persekutuan Putrajaya,Total,2517
 2018,Johor,Male,31656
 2018,Johor,Female,29428
+2018,Johor,Total,61084
 2018,Kedah,Male,18462
 2018,Kedah,Female,17181
+2018,Kedah,Total,35643
 2018,Kelantan,Male,19984
 2018,Kelantan,Female,18376
+2018,Kelantan,Total,38360
 2018,Melaka,Male,7379
 2018,Melaka,Female,7009
+2018,Melaka,Total,14388
 2018,Negeri Sembilan,Male,9328
 2018,Negeri Sembilan,Female,8849
+2018,Negeri Sembilan,Total,18177
 2018,Pahang,Male,13930
 2018,Pahang,Female,13076
+2018,Pahang,Total,27006
 2018,Perak,Male,17455
 2018,Perak,Female,16414
+2018,Perak,Total,33869
 2018,Perlis,Male,2249
 2018,Perlis,Female,2122
+2018,Perlis,Total,4371
 2018,Pulau Pinang,Male,10661
 2018,Pulau Pinang,Female,10044
+2018,Pulau Pinang,Total,20705
 2018,Sabah,Male,27601
 2018,Sabah,Female,25424
+2018,Sabah,Total,53025
 2018,Sarawak,Male,18876
 2018,Sarawak,Female,17748
+2018,Sarawak,Total,36624
 2018,Selangor,Male,52784
 2018,Selangor,Female,49341
+2018,Selangor,Total,102125
 2018,Terengganu,Male,14578
 2018,Terengganu,Female,13664
+2018,Terengganu,Total,28242
 2018,Wilayah Persekutuan Kuala Lumpur,Male,12475
 2018,Wilayah Persekutuan Kuala Lumpur,Female,11760
+2018,Wilayah Persekutuan Kuala Lumpur,Total,24235
 2018,Wilayah Persekutuan Labuan,Male,913
 2018,Wilayah Persekutuan Labuan,Female,778
+2018,Wilayah Persekutuan Labuan,Total,1691
 2018,Wilayah Persekutuan Putrajaya,Male,1251
 2018,Wilayah Persekutuan Putrajaya,Female,1149
+2018,Wilayah Persekutuan Putrajaya,Total,2400
