@@ -38,15 +38,15 @@ Year,State,Sex,Live_births
 2012,Terengganu,Male,13230
 2012,Terengganu,Female,12468
 2012,Terengganu,Total,25698
-2012,Wilayah Persekutuan Kuala Lumpur,Male,14012
-2012,Wilayah Persekutuan Kuala Lumpur,Female,12970
-2012,Wilayah Persekutuan Kuala Lumpur,Total,26982
-2012,Wilayah Persekutuan Labuan,Male,934
-2012,Wilayah Persekutuan Labuan,Female,839
-2012,Wilayah Persekutuan Labuan,Total,1773
-2012,Wilayah Persekutuan Putrajaya,Male,1600
-2012,Wilayah Persekutuan Putrajaya,Female,1550
-2012,Wilayah Persekutuan Putrajaya,Total,3150
+2012,Kuala Lumpur,Male,14012
+2012,Kuala Lumpur,Female,12970
+2012,Kuala Lumpur,Total,26982
+2012,Labuan,Male,934
+2012,Labuan,Female,839
+2012,Labuan,Total,1773
+2012,Putrajaya,Male,1600
+2012,Putrajaya,Female,1550
+2012,Putrajaya,Total,3150
 2013,Johor,Male,29672
 2013,Johor,Female,27730
 2013,Johor,Total,57402
@@ -86,15 +86,15 @@ Year,State,Sex,Live_births
 2013,Terengganu,Male,13026
 2013,Terengganu,Female,12439
 2013,Terengganu,Total,25465
-2013,Wilayah Persekutuan Kuala Lumpur,Male,13044
-2013,Wilayah Persekutuan Kuala Lumpur,Female,12289
-2013,Wilayah Persekutuan Kuala Lumpur,Total,25333
-2013,Wilayah Persekutuan Labuan,Male,944
-2013,Wilayah Persekutuan Labuan,Female,799
-2013,Wilayah Persekutuan Labuan,Total,1743
-2013,Wilayah Persekutuan Putrajaya,Male,1518
-2013,Wilayah Persekutuan Putrajaya,Female,1454
-2013,Wilayah Persekutuan Putrajaya,Total,2972
+2013,Kuala Lumpur,Male,13044
+2013,Kuala Lumpur,Female,12289
+2013,Kuala Lumpur,Total,25333
+2013,Labuan,Male,944
+2013,Labuan,Female,799
+2013,Labuan,Total,1743
+2013,Putrajaya,Male,1518
+2013,Putrajaya,Female,1454
+2013,Putrajaya,Total,2972
 2015,Johor,Male,31307
 2015,Johor,Female,29236
 2015,Johor,Total,60543
@@ -134,15 +134,15 @@ Year,State,Sex,Live_births
 2015,Terengganu,Male,14403
 2015,Terengganu,Female,13226
 2015,Terengganu,Total,27629
-2015,Wilayah Persekutuan Kuala Lumpur,Male,13411
-2015,Wilayah Persekutuan Kuala Lumpur,Female,12378
-2015,Wilayah Persekutuan Kuala Lumpur,Total,25789
-2015,Wilayah Persekutuan Labuan,Male,1023
-2015,Wilayah Persekutuan Labuan,Female,930
-2015,Wilayah Persekutuan Labuan,Total,1953
-2015,Wilayah Persekutuan Putrajaya,Male,1515
-2015,Wilayah Persekutuan Putrajaya,Female,1354
-2015,Wilayah Persekutuan Putrajaya,Total,2869
+2015,Kuala Lumpur,Male,13411
+2015,Kuala Lumpur,Female,12378
+2015,Kuala Lumpur,Total,25789
+2015,Labuan,Male,1023
+2015,Labuan,Female,930
+2015,Labuan,Total,1953
+2015,Putrajaya,Male,1515
+2015,Putrajaya,Female,1354
+2015,Putrajaya,Total,2869
 2014,Johor,Male,31420
 2014,Johor,Female,29023
 2014,Johor,Total,60443
@@ -182,15 +182,15 @@ Year,State,Sex,Live_births
 2014,Terengganu,Male,14056
 2014,Terengganu,Female,12957
 2014,Terengganu,Total,27013
-2014,Wilayah Persekutuan Kuala Lumpur,Male,13887
-2014,Wilayah Persekutuan Kuala Lumpur,Female,13213
-2014,Wilayah Persekutuan Kuala Lumpur,Total,27100
-2014,Wilayah Persekutuan Labuan,Male,959
-2014,Wilayah Persekutuan Labuan,Female,912
-2014,Wilayah Persekutuan Labuan,Total,1871
-2014,Wilayah Persekutuan Putrajaya,Male,1574
-2014,Wilayah Persekutuan Putrajaya,Female,1490
-2014,Wilayah Persekutuan Putrajaya,Total,3064
+2014,Kuala Lumpur,Male,13887
+2014,Kuala Lumpur,Female,13213
+2014,Kuala Lumpur,Total,27100
+2014,Labuan,Male,959
+2014,Labuan,Female,912
+2014,Labuan,Total,1871
+2014,Putrajaya,Male,1574
+2014,Putrajaya,Female,1490
+2014,Putrajaya,Total,3064
 2016,Johor,Male,30754
 2016,Johor,Female,28807
 2016,Johor,Total,59561
@@ -230,15 +230,15 @@ Year,State,Sex,Live_births
 2016,Terengganu,Male,14211
 2016,Terengganu,Female,13310
 2016,Terengganu,Total,27521
-2016,Wilayah Persekutuan Kuala Lumpur,Male,13276
-2016,Wilayah Persekutuan Kuala Lumpur,Female,12463
-2016,Wilayah Persekutuan Kuala Lumpur,Total,25739
-2016,Wilayah Persekutuan Labuan,Male,881
-2016,Wilayah Persekutuan Labuan,Female,871
-2016,Wilayah Persekutuan Labuan,Total,1752
-2016,Wilayah Persekutuan Putrajaya,Male,1342
-2016,Wilayah Persekutuan Putrajaya,Female,1227
-2016,Wilayah Persekutuan Putrajaya,Total,2569
+2016,Kuala Lumpur,Male,13276
+2016,Kuala Lumpur,Female,12463
+2016,Kuala Lumpur,Total,25739
+2016,Labuan,Male,881
+2016,Labuan,Female,871
+2016,Labuan,Total,1752
+2016,Putrajaya,Male,1342
+2016,Putrajaya,Female,1227
+2016,Putrajaya,Total,2569
 2009,Johor,Male,29631
 2009,Johor,Female,27386
 2009,Johor,Total,57017
@@ -278,12 +278,12 @@ Year,State,Sex,Live_births
 2009,Terengganu,Male,12152
 2009,Terengganu,Female,11643
 2009,Terengganu,Total,23795
-2009,Wilayah Persekutuan Kuala Lumpur,Male,13252
-2009,Wilayah Persekutuan Kuala Lumpur,Female,12612
-2009,Wilayah Persekutuan Kuala Lumpur,Total,25864
-2009,Wilayah Persekutuan Labuan,Male,845
-2009,Wilayah Persekutuan Labuan,Female,804
-2009,Wilayah Persekutuan Labuan,Total,1649
+2009,Kuala Lumpur,Male,13252
+2009,Kuala Lumpur,Female,12612
+2009,Kuala Lumpur,Total,25864
+2009,Labuan,Male,845
+2009,Labuan,Female,804
+2009,Labuan,Total,1649
 2010,Johor,Male,28989
 2010,Johor,Female,27075
 2010,Johor,Total,56064
@@ -323,15 +323,15 @@ Year,State,Sex,Live_births
 2010,Terengganu,Male,12546
 2010,Terengganu,Female,11716
 2010,Terengganu,Total,24262
-2010,Wilayah Persekutuan Kuala Lumpur,Male,12697
-2010,Wilayah Persekutuan Kuala Lumpur,Female,11774
-2010,Wilayah Persekutuan Kuala Lumpur,Total,24471
-2010,Wilayah Persekutuan Labuan,Male,852
-2010,Wilayah Persekutuan Labuan,Female,779
-2010,Wilayah Persekutuan Labuan,Total,1631
-2010,Wilayah Persekutuan Putrajaya,Male,1286
-2010,Wilayah Persekutuan Putrajaya,Female,1144
-2010,Wilayah Persekutuan Putrajaya,Total,2430
+2010,Kuala Lumpur,Male,12697
+2010,Kuala Lumpur,Female,11774
+2010,Kuala Lumpur,Total,24471
+2010,Labuan,Male,852
+2010,Labuan,Female,779
+2010,Labuan,Total,1631
+2010,Putrajaya,Male,1286
+2010,Putrajaya,Female,1144
+2010,Putrajaya,Total,2430
 2011,Johor,Male,29962
 2011,Johor,Female,28205
 2011,Johor,Total,58167
@@ -371,15 +371,15 @@ Year,State,Sex,Live_births
 2011,Terengganu,Male,12855
 2011,Terengganu,Female,11921
 2011,Terengganu,Total,24776
-2011,Wilayah Persekutuan Kuala Lumpur,Male,13147
-2011,Wilayah Persekutuan Kuala Lumpur,Female,12378
-2011,Wilayah Persekutuan Kuala Lumpur,Total,25525
-2011,Wilayah Persekutuan Labuan,Male,911
-2011,Wilayah Persekutuan Labuan,Female,823
-2011,Wilayah Persekutuan Labuan,Total,1734
-2011,Wilayah Persekutuan Putrajaya,Male,1508
-2011,Wilayah Persekutuan Putrajaya,Female,1448
-2011,Wilayah Persekutuan Putrajaya,Total,2956
+2011,Kuala Lumpur,Male,13147
+2011,Kuala Lumpur,Female,12378
+2011,Kuala Lumpur,Total,25525
+2011,Labuan,Male,911
+2011,Labuan,Female,823
+2011,Labuan,Total,1734
+2011,Putrajaya,Male,1508
+2011,Putrajaya,Female,1448
+2011,Putrajaya,Total,2956
 2017,Johor,Male,31648
 2017,Johor,Female,29437
 2017,Johor,Total,61085
@@ -419,15 +419,15 @@ Year,State,Sex,Live_births
 2017,Terengganu,Male,14177
 2017,Terengganu,Female,13734
 2017,Terengganu,Total,27911
-2017,Wilayah Persekutuan Kuala Lumpur,Male,12722
-2017,Wilayah Persekutuan Kuala Lumpur,Female,12010
-2017,Wilayah Persekutuan Kuala Lumpur,Total,24732
-2017,Wilayah Persekutuan Labuan,Male,866
-2017,Wilayah Persekutuan Labuan,Female,819
-2017,Wilayah Persekutuan Labuan,Total,1685
-2017,Wilayah Persekutuan Putrajaya,Male,1298
-2017,Wilayah Persekutuan Putrajaya,Female,1219
-2017,Wilayah Persekutuan Putrajaya,Total,2517
+2017,Kuala Lumpur,Male,12722
+2017,Kuala Lumpur,Female,12010
+2017,Kuala Lumpur,Total,24732
+2017,Labuan,Male,866
+2017,Labuan,Female,819
+2017,Labuan,Total,1685
+2017,Putrajaya,Male,1298
+2017,Putrajaya,Female,1219
+2017,Putrajaya,Total,2517
 2018,Johor,Male,31656
 2018,Johor,Female,29428
 2018,Johor,Total,61084
@@ -467,12 +467,12 @@ Year,State,Sex,Live_births
 2018,Terengganu,Male,14578
 2018,Terengganu,Female,13664
 2018,Terengganu,Total,28242
-2018,Wilayah Persekutuan Kuala Lumpur,Male,12475
-2018,Wilayah Persekutuan Kuala Lumpur,Female,11760
-2018,Wilayah Persekutuan Kuala Lumpur,Total,24235
-2018,Wilayah Persekutuan Labuan,Male,913
-2018,Wilayah Persekutuan Labuan,Female,778
-2018,Wilayah Persekutuan Labuan,Total,1691
-2018,Wilayah Persekutuan Putrajaya,Male,1251
-2018,Wilayah Persekutuan Putrajaya,Female,1149
-2018,Wilayah Persekutuan Putrajaya,Total,2400
+2018,Kuala Lumpur,Male,12475
+2018,Kuala Lumpur,Female,11760
+2018,Kuala Lumpur,Total,24235
+2018,Labuan,Male,913
+2018,Labuan,Female,778
+2018,Labuan,Total,1691
+2018,Putrajaya,Male,1251
+2018,Putrajaya,Female,1149
+2018,Putrajaya,Total,2400
